@@ -1,4 +1,6 @@
 # SDD — Spec-Driven Development System
+
+> **Superseded.** This process is now part of the **Lord of the Projects** skill, which combines it with project foundations, AI-engineering assessment, readiness gates and project maps. This repository is kept as a reference.
 ## Master Process Guide
 <!--
 SCOPE: How to use this template system. Process steps. Session protocols.
